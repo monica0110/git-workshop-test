@@ -4,4 +4,9 @@ public class alumn{
 		//code more
 	}
 
+	public void execute(){
+ //code more...
+
+	}
+
 }
