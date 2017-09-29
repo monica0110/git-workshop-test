@@ -3,5 +3,8 @@ public class alumn{
 
 		//code more
 	}
+     public void  dosomething() {
 
+     	//code more
+     }
 }
