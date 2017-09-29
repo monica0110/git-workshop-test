@@ -3,10 +3,15 @@ public class alumn{
 
 		//code more
 	}
+     public void  dosomething() {
 
+<<<<<<< HEAD
 	public void execute(){
  //code more...
 
 	}
 
+=======
+     	//code more
+     }
 }
