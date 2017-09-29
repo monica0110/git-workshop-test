@@ -5,13 +5,13 @@ public class alumn{
 	}
      public void  dosomething() {
 
-<<<<<<< HEAD
+
 	public void execute(){
  //code more...
 
 	}
 
-=======
+
      	//code more
      }
 }
